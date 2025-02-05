@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/rovanta/rmodel">
-    <img src="./profile_background.jpg" alt="Rovanta Logo" width="1200"/>
-  </a>
-</p>
-
 <h1 align="center">
   🚀 Rovanta
 </h1>
