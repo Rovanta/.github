@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rovanta/rmodel">
-    <img src="./logo.jpg" alt="Rovanta Logo" width="200"/>
+    <img src="./profile_image.jpg" alt="Rovanta Logo" width="200"/>
   </a>
 </p>
 
