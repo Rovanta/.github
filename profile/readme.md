@@ -62,5 +62,5 @@ We’re open-source and welcome contributions!
 
 <p align="center">
   📫 **Contact**: <a href="mailto:contact@rovanta.ai">contact@rovanta.ai</a> | 
-  <a href="https://github.com/Rovanta">Twitter</a> |
+  <a href="https://github.com/Rovanta">Twitter</a>
 </p>
