@@ -20,7 +20,7 @@
 
 ---
 
-## 🌟 **Featured Project: rModel**
+## 🌟 **Featured Project: rmodel**
 
 **rmodel** is a **Go framework** designed for building LLM applications with **agentic workflows**.  
 ✅ **Features**:
